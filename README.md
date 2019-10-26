@@ -29,4 +29,5 @@ In your web browser type `https://192.168.80.122:8384` and click `Actions` > `Se
 
 ### 1.01 Setup Syncthing General settings
 Give your Proxmox Syncthing client device a name so its easily identifiable (syncthing-identifier). Something like `syncthing-berlin` or whatever naming concention you choose.
+
 ![alt text](https://raw.githubusercontent.com/ahuacate/lazylibrarian/master/images/interface.png)
