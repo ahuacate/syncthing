@@ -20,8 +20,7 @@ Tasks to be performed are:
 - [ ] 2.01 Setup Syncthing Default Folder
 - [ ] 2.02 Setup Syncthing Audiobooks Folder
 - [ ] 2.03 Setup Syncthing Books Folder
-- [ ] 2.00 Create Lazylibrarian backup
-- [ ] 3.00 Restore Lazylibrarian backup
+- [ ] 3.00 3.00 Add your remote devices
 - [ ] 00.00 Patches & Fixes
 
 ## 1.00 Setup Syncthing settings
@@ -141,7 +140,6 @@ Syncthing works on Mac OS X, Windows, Linux, Android, FreeBSD, Solaris and OpenB
 
 ### 3.01 Install Syncthing on your Android
 Go to the Google Play store and install the Syncthing App. For configuring the internet has plenty of instructions and help guides.
-
 
 ---
 
