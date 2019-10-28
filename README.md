@@ -20,7 +20,7 @@ Tasks to be performed are:
 - [ ] 2.01 Setup Syncthing Default Folder
 - [ ] 2.02 Setup Syncthing Audiobooks Folder
 - [ ] 2.03 Setup Syncthing Books Folder
-- [ ] 3.00 3.00 Add your remote devices
+- [ ] 3.00 Add your Remote Devices & Folders to Sync
 - [ ] 00.00 Patches & Fixes
 
 ## 1.00 Setup Syncthing settings
@@ -135,10 +135,10 @@ To add a new folder go to your web browser type `https://192.168.80.122:8384` an
 
 And click `Save`.
 
-## 3.00 Add your remote devices & folders
+## 3.00 Add your Remote Devices & Folders to Sync
 Syncthing works on Mac OS X, Windows, Linux, Android, FreeBSD, Solaris and OpenBSD. Run it on your desktop computers or Android mobile and synchronize them with your server for backup or sync data (music, audiobooks etc).
 
-### 3.01 Install Syncthing on your Android
+### 3.01 Install Syncthing on your Android Mobile
 Go to the Google Play store and install the Syncthing App. For configuring the internet has plenty of instructions and help guides.
 
 ### 3.02 Add your Syncthing Proxmox Device
@@ -147,7 +147,7 @@ Your `syncthing-berlin` (syncthing-identifier) settings are shown below:
 ![alt text](https://raw.githubusercontent.com/ahuacate/syncthing/master/images/syncthing_android_server.jpg)
 
 ### 3.03 Add your audiobooks folder
-Your added `audiobooks` folder settings are shown below:
+Your added `audiobooks` folder settings are shown below. By default Syncthing android will choose your root folder (/storage/emulated/0/) to create the `audiobooks` folder. You may choose another location such as a sdcard.
 
 ![alt text](https://raw.githubusercontent.com/ahuacate/syncthing/master/images/syncthing_android_audiobooks.jpg)
 ---
